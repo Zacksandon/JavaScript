@@ -194,3 +194,6 @@
 2025-11-03 21:23:51,945 - INFO - 127.0.0.1 - - [03/Nov/2025 21:23:51] "OPTIONS /admin/reportes HTTP/1.1" 200 -
 2025-11-03 21:23:52,180 - INFO - Conexión MySQL exitosa
 2025-11-03 21:23:52,192 - INFO - 127.0.0.1 - - [03/Nov/2025 21:23:52] "GET /admin/reportes HTTP/1.1" 200 -
+2025-11-03 21:26:01,342 - INFO - 127.0.0.1 - - [03/Nov/2025 21:26:01] "OPTIONS /admin/reportes HTTP/1.1" 200 -
+2025-11-03 21:26:01,609 - INFO - Conexión MySQL exitosa
+2025-11-03 21:26:01,612 - INFO - 127.0.0.1 - - [03/Nov/2025 21:26:01] "GET /admin/reportes HTTP/1.1" 200 -
