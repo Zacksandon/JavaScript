@@ -183,3 +183,14 @@
 2025-11-03 21:10:41,279 - INFO - 127.0.0.1 - - [03/Nov/2025 21:10:41] "OPTIONS /admin/reportes HTTP/1.1" 200 -
 2025-11-03 21:10:41,534 - INFO - Conexión MySQL exitosa
 2025-11-03 21:10:41,544 - INFO - 127.0.0.1 - - [03/Nov/2025 21:10:41] "GET /admin/reportes HTTP/1.1" 200 -
+2025-11-03 21:10:44,729 - INFO - Conexión MySQL exitosa
+2025-11-03 21:10:44,731 - INFO - 127.0.0.1 - - [03/Nov/2025 21:10:44] "GET /admin/reportes HTTP/1.1" 200 -
+2025-11-03 21:16:04,503 - INFO - 127.0.0.1 - - [03/Nov/2025 21:16:04] "OPTIONS /admin/reportes HTTP/1.1" 200 -
+2025-11-03 21:16:04,755 - INFO - Conexión MySQL exitosa
+2025-11-03 21:16:04,781 - INFO - 127.0.0.1 - - [03/Nov/2025 21:16:04] "GET /admin/reportes HTTP/1.1" 200 -
+2025-11-03 21:16:20,107 - INFO - 127.0.0.1 - - [03/Nov/2025 21:16:20] "OPTIONS /admin/reportes HTTP/1.1" 200 -
+2025-11-03 21:16:20,358 - INFO - Conexión MySQL exitosa
+2025-11-03 21:16:20,361 - INFO - 127.0.0.1 - - [03/Nov/2025 21:16:20] "GET /admin/reportes HTTP/1.1" 200 -
+2025-11-03 21:23:51,945 - INFO - 127.0.0.1 - - [03/Nov/2025 21:23:51] "OPTIONS /admin/reportes HTTP/1.1" 200 -
+2025-11-03 21:23:52,180 - INFO - Conexión MySQL exitosa
+2025-11-03 21:23:52,192 - INFO - 127.0.0.1 - - [03/Nov/2025 21:23:52] "GET /admin/reportes HTTP/1.1" 200 -
