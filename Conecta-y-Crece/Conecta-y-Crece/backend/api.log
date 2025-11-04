@@ -200,3 +200,28 @@
 2025-11-03 21:26:48,168 - INFO - 127.0.0.1 - - [03/Nov/2025 21:26:48] "OPTIONS /admin/reportes HTTP/1.1" 200 -
 2025-11-03 21:26:48,437 - INFO - Conexión MySQL exitosa
 2025-11-03 21:26:48,439 - INFO - 127.0.0.1 - - [03/Nov/2025 21:26:48] "GET /admin/reportes HTTP/1.1" 200 -
+2025-11-03 21:27:56,952 - INFO - 127.0.0.1 - - [03/Nov/2025 21:27:56] "OPTIONS /admin/reportes HTTP/1.1" 200 -
+2025-11-03 21:27:57,217 - INFO - Conexión MySQL exitosa
+2025-11-03 21:27:57,219 - INFO - 127.0.0.1 - - [03/Nov/2025 21:27:57] "GET /admin/reportes HTTP/1.1" 200 -
+2025-11-03 21:30:47,373 - INFO - 127.0.0.1 - - [03/Nov/2025 21:30:47] "OPTIONS /admin/reportes HTTP/1.1" 200 -
+2025-11-03 21:30:47,638 - INFO - Conexión MySQL exitosa
+2025-11-03 21:30:47,641 - INFO - 127.0.0.1 - - [03/Nov/2025 21:30:47] "GET /admin/reportes HTTP/1.1" 200 -
+2025-11-03 21:33:02,094 - INFO -  * Detected change in 'C:\\Users\\zackb\\Downloads\\Conecta-y-Crece\\Conecta-y-Crece\\backend\\db_service.py', reloading
+2025-11-03 21:33:03,071 - INFO -  * Restarting with stat
+2025-11-03 21:33:04,215 - INFO - API Conecta y Crece iniciada
+2025-11-03 21:33:04,265 - WARNING -  * Debugger is active!
+2025-11-03 21:33:04,280 - INFO -  * Debugger PIN: 115-948-446
+2025-11-03 21:33:04,321 - INFO - 127.0.0.1 - - [03/Nov/2025 21:33:04] "OPTIONS /admin/reportes HTTP/1.1" 200 -
+2025-11-03 21:33:04,814 - INFO - Conexión MySQL exitosa
+2025-11-03 21:33:04,816 - INFO - 127.0.0.1 - - [03/Nov/2025 21:33:04] "GET /admin/reportes HTTP/1.1" 200 -
+2025-11-03 21:33:04,951 - INFO - Conexión MySQL exitosa
+2025-11-03 21:33:04,953 - INFO - 127.0.0.1 - - [03/Nov/2025 21:33:04] "GET /admin/reportes HTTP/1.1" 200 -
+2025-11-03 21:33:05,358 - INFO -  * Detected change in 'C:\\Users\\zackb\\Downloads\\Conecta-y-Crece\\Conecta-y-Crece\\backend\\db_service.py', reloading
+2025-11-03 21:33:05,515 - INFO -  * Restarting with stat
+2025-11-03 21:33:06,609 - INFO - API Conecta y Crece iniciada
+2025-11-03 21:33:06,664 - WARNING -  * Debugger is active!
+2025-11-03 21:33:06,670 - INFO -  * Debugger PIN: 115-948-446
+2025-11-03 21:33:07,045 - INFO - Conexión MySQL exitosa
+2025-11-03 21:33:07,048 - INFO - 127.0.0.1 - - [03/Nov/2025 21:33:07] "GET /admin/reportes HTTP/1.1" 200 -
+2025-11-03 21:34:27,692 - INFO -  * Detected change in 'C:\\Users\\zackb\\Downloads\\Conecta-y-Crece\\Conecta-y-Crece\\backend\\db_service.py', reloading
+2025-11-03 21:34:27,938 - INFO -  * Restarting with stat
